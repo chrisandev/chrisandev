@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chrisandev](https://github.com/chrisandev)
 
-- 💬 Ask me about **JS, Node.JS, Databases, Networking, Security**
+- 💬 Ask me about **HTML, CSS, JS, Node.JS, MySQL, PHP**
 
-- 📫 How to reach me **cmartinez.lara99@gmail.com**
+- 📫 How to reach me **cristhian.martinezlara@gmail.com**
 
-- ⚡ Fun fact **I am Creative and... Funny!**
+- ⚡ Fun fact **Music is very important in my life, and I not only listen to music, i also do it and you can listen to it in my Youtube Channel [My Youtube Channel]([https://go-market-shop.herokuapp.com/](https://www.youtube.com/c/ChrisanBeats/videos))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
