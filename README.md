@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristhian Martínez!</h1>
 <h3 align="center">An absolute lover of technology 💻</h3>
 
-- 🔭 The last project I developed was an [A management system for a mini market](https://go-market-shop.herokuapp.com/)
+- 🔭 The last project I developed was an [A management system for small clothing businesses](https://clothing-app-web.herokuapp.com/)
 
 - 🌱 I’m currently learning **Blockchain & Web 3.0**
 
