@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Angular, Spring Boot**
 
-- 🌱 I’m currently learning **Sockets**
-
 - 👨‍💻 All of my projects are available at [https://github.com/chrisjosuedev](https://github.com/chrisjosuedev)
 
 - 💬 Ask me about **Nodejs, Expressjs, Java, RestAPIs, MySQL, SQL Server, MongoDB**
