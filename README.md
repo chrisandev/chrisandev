@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cristhian J. Martínez Lara!</h1>
-<h3 align="center">Backend Developer 💻</h3>
+<h3 align="center">Java Backend Developer 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisjosuedev&label=Profile%20views&color=0e75b6&style=flat" alt="chrisjosuedev" /> </p>
 
-- 🔭 The last project I developed was [A management system for small businesses (Electron)](https://github.com/chrisjosuedev/is2-app)
-
-- 🌱 I’m currently learning **React, Spring Boot**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chrisjosuedev](https://github.com/chrisjosuedev)
 
-- 💬 Ask me about **Nodejs, Expressjs, Java, RestAPIs, MySQL, SQL Server, MongoDB**
+- 💬 Ask me about **Nodejs, Expressjs, Java, Spring, RestAPIs, MySQL, SQL Server, MongoDB**
 
 - 📫 How to reach me **cristhian.martinezlara@gmail.com**
 
@@ -17,7 +15,6 @@
 <p align="left">
 <a href="https://dev.to/chrisjosuedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chrisjosuedev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chrisjosuedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chrisjosuedev" height="30" width="40" /></a>
-<a href="https://instagram.com/chrisjosuel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chrisjosuel_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
