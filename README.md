@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer 💻</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on: 👀?<br>👯 I’m looking to collaborate on Exciting software development projects that involve Java, Nodejs, and React.<br>🤝 I’m looking for help with: Advancing my knowledge and skills in software engineering best practices and new technologies.<br>🌱 I’m currently learning: Exploring new concepts in software development, staying updated with the latest trends, and expanding my expertise in Java and Node.js.<br>💬 Ask me about: Java, Node.js, REST APIs, React, database management, or any software engineering-related topics.<br>⚡ Fun fact: Apart from coding, I enjoy producing music and playing video games in my free time.
+🔭 I’m currently working on: 👀?<br>👯 I’m looking to collaborate on Exciting software development projects that involve Java, Nodejs, and React.<br>🤝 I’m looking for help with Advancing my knowledge and skills in software engineering and contributing to OpenSource.<br>🌱 I’m currently learning: Exploring new concepts in software development, staying updated with the latest trends, and expanding my expertise in Java and Node.js.<br>💬 Ask me about: Java, Node.js, REST APIs, React, database management, or any software engineering-related topics.<br>⚡ Fun fact: Apart from coding, I enjoy producing music and playing video games in my free time.
 
 
 ## 🌐 Socials:
